@@ -1,4 +1,6 @@
-#First Semester C Lab Reports
-This is my lab reports of BCA First Semester of C-Programming classes,
+# First Semester C-Lab Reports
+
+This is my lab reports of my BCA First Semester of Tribhuvan University of C-Programming.
 
 ---
+
